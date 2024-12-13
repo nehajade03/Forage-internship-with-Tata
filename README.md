@@ -24,7 +24,8 @@ Insights
 Top Customers by Revenue:
 Customer ID 14646 leads with a revenue contribution of $0.28M, followed by ID 18102 with $0.26M.
 The top 8 customers significantly contribute to the revenue stream, highlighting opportunities for personalized engagement and retention strategies.
- 
+ ![Screenshot 2024-12-13 132930](https://github.com/user-attachments/assets/c6fe101c-d399-40ee-b25e-590a5ca23525)
+
 
 
 Revenue and Quantity Distribution by Country:
@@ -32,33 +33,42 @@ Revenue and Quantity Distribution by Country:
 and France.
 The comparison indicates strong performance in European markets, with potential for further growth in other regions.
  
-  
+  ![Screenshot 2024-12-13 133007](https://github.com/user-attachments/assets/8bb90b9c-0467-4f40-b4fe-7ba8aff4caed)
+
 Quantity Distribution Across Countries:
   Germany and France dominate the quantity of products sold. 
  There is a noticeable drop in quantities sold for countries beyond the top 5, signaling area
 where marketing and sales strategies could be enhanced.
-  
+  ![Screenshot 2024-12-13 133043](https://github.com/user-attachments/assets/2f868a63-e124-4dc1-b64f-150e235fdc25)
+
  
 Geographical Distribution:
   A global map visualization highlights the spread of customers and their revenue contributions across 38 countries.
   Significant clusters are visible in Europe and North America, with smaller contributions from Asia and Australia.
   
- 
+ ![Screenshot 2024-12-13 133105](https://github.com/user-attachments/assets/26c1033b-230a-45fd-b85a-74ad1be2288e)
+
 Recommendations
  
  Customer Focus:
 Targeted Interventions:
 revenue customers (e.g., IDs 14646, 18102) with loyalty programs or exclusive offers to ensure continued engagement.
+
   Market Expansion:
     Leverage insights from successful markets like the Netherlands and Germany to drive growth in underperforming countries like Japan and Belgium.
+
   Product Strategies:
     Analyze top-selling products in high-performing regions to replicate success in countries with lower sales volumes.
+
  Optimization:
     Explore factors behind the sharp drop in quantities for specific regions and address potential bottlenecks in supply or marketing efforts.
+
  Visualizations Used
+
  Bar Charts for revenue by customer and revenue versus quantity by country.
 Line Chart for country-wise quantity distribution.
 Geographical Map to showcase customer and revenue distribution globally.
- This dashboard effectively demonstrates the ability to derive actionable insights from complex datasets and visualize them in a meaningful way.
+
+This dashboard effectively demonstrates the ability to derive actionable insights from complex datasets and visualize them in a meaningful way.
  
 
