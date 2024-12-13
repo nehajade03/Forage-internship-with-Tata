@@ -1,4 +1,4 @@
-# Forage-internship-with-Tata
+# Forage internship with Tata
 Analysis on Online Retail Price: Dashboard Overview
 
 This dashboard provides an interactive exploration of revenue, quantities sold, and customer engagement across various countries for online retail sales.
