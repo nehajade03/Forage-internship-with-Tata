@@ -31,7 +31,7 @@ Insights
         A global map visualization highlights the spread of customers and their revenue contributions across 38 countries.
         Significant clusters are visible in Europe and North America, with smaller contributions from Asia and Australia.
 ![image](https://github.com/user-attachments/assets/39fe9266-4282-4374-8e3a-0beb3cfa4fdc)
-
+Live Project 
 
 Recommendations
 
